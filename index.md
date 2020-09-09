@@ -8,4 +8,4 @@ Download The Ploctopus App today!
 
 [Google Play](https://play.google.com/store/apps/details?id=com.benchwarmer.studios.theploctopus&hl=en)
 
-Privacy Policy [Here](https://github.com/AdamGlantz/The_Benchwarmer_Studios/blob/master/policy.md)
+Privacy Policy [Here](https://adamglantz.github.io/The_Benchwarmer_Studios/policy.md)
