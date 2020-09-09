@@ -1,4 +1,6 @@
-![Ploctopus](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/40/a2/82/40a282ac-6c30-5787-6bef-87fdb6001d2a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png)
+<p align="center">
+  <img src="https://i.imgur.com/30Hb4YD.png" />
+</p>
 
 Welcome to the Indie Game Developer Studio behind games such as The Ploctopus and more to come!
 
