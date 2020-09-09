@@ -8,9 +8,18 @@
 <p align="center">
 Download The Ploctopus App today!
   </p>
+  
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.benchwarmer.studios.theploctopus&hl=en" target="_blank">
+    <img src="https://i.imgur.com/Y60OYZn.png" />
+  </a>
+</p>
 
-[![Ploctopus](https://i.imgur.com/Y60OYZn.png "The Ploctopus on Android")](https://play.google.com/store/apps/details?id=com.benchwarmer.studios.theploctopus&hl=en)
-[![Ploctopus](https://i.imgur.com/qfaPI96.png "The Ploctopus on iOS")](https://apps.apple.com/se/app/the-ploctopus/id1526697057?l=en)
+<p align="center">
+  <a href="https://apps.apple.com/se/app/the-ploctopus/id1526697057?l=en" target="_blank">
+    <img src="https://i.imgur.com/qfaPI96.png" />
+  </a>
+</p>
 
 Privacy Policy [Here](https://adamglantz.github.io/The_Benchwarmer_Studios/policy.md)
 
