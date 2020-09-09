@@ -6,6 +6,6 @@ Download The Ploctopus App today!
 
 [Apple Store](https://apps.apple.com/se/app/the-ploctopus/id1526697057?l=en)
 
-[![Ploctopus](https://drive.google.com/file/d/1v7A2xjGmn5s43unp5P2tzxXJV5dmfaY3/view?usp=sharing "The Ploctopus on Android")](https://play.google.com/store/apps/details?id=com.benchwarmer.studios.theploctopus&hl=en)
+[![Ploctopus](https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0 "The Ploctopus on Android")](https://play.google.com/store/apps/details?id=com.benchwarmer.studios.theploctopus&hl=en)
 
 Privacy Policy [Here](https://adamglantz.github.io/The_Benchwarmer_Studios/policy.md)
