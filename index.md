@@ -21,5 +21,11 @@ Download The Ploctopus App today!
   </a>
 </p>
 
-Privacy Policy [Here](https://adamglantz.github.io/The_Benchwarmer_Studios/policy.md)
+
+<p align="center">
+  <a href="https://adamglantz.github.io/The_Benchwarmer_Studios/policy.md">Privacy Policy</a>
+  <!-- more links here -->
+</p>
+
+
 
