@@ -1,1 +1,1 @@
-Om du läser detta är du skyldig Adam 100kr
+If you read this, you owe Adam Glantz 100kr
